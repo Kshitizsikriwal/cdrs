@@ -30,9 +30,9 @@ Each dataset corresponds to a specific clinical condition and is built using *re
 
 | Disease Focus | Primary Source References | Generated Dataset |
 |----------------|----------------------------|-------------------|
-| **Asthma** | WHO, ALA (American Lung Association), NIH, DRI | `meal_to_yoga_top1_contrastive_Asthma.xlsx` |
-| **Diabetes** | ADA, WHO, ICMR, NIH, AHA | `meal_to_yoga_top1_contrastive_Diabetes.xlsx` |
-| **Hypercholesterolemia** | WHO, AHA, NIH DRI, Dietary Guidelines for Americans | `meal_to_yoga_top1_contrastive_Cholesterol.xlsx` |
+| **Asthma** | WHO, ALA (American Lung Association), NIH, DRI | `Asthma.csv` |
+| **Diabetes** | ADA, WHO, ICMR, NIH, AHA | `Diabetes.csv` |
+| **Hypercholesterolemia** | WHO, AHA, NIH DRI, Dietary Guidelines for Americans | `Cholesterol.csv` |
 
 Each dataset contains:
 - Daily meal plans (Breakfast, Lunch, Dinner)
